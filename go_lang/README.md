@@ -1,5 +1,12 @@
 ## Setup and Run test
 ```
+#Try1
+
+cd unit-test--setup-in-all-languages/go_lang
+go test -v ./test/
+
+## OR try
+
 ## Check go path
 echo $GOPATH
 ## Default would be ~/go
