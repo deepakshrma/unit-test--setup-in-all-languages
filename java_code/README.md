@@ -1,4 +1,8 @@
 ## Setup and Run test
+### Prerequisite:
+* Java
+* Gradle
+
 ```
 ## Create lib using gradle
 md java_code

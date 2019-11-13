@@ -1,4 +1,9 @@
 ## Setup and Run test
+### Prerequisite:
+* Python
+* Pip
+
+
 ```
 pip install -U pytest
 
